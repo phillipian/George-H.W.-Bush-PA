@@ -33,4 +33,6 @@ h4 {
   padding: 15px;
   padding-bottom: 0;
   margin-top: 50px;
+  box-sizing: border-box;
+  background-color: #ececec;
 }
