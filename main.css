@@ -18,7 +18,7 @@ img {
   padding: 16px;
   font-size: 14pt;
   line-height: 1.5;
-  max-width: 900px;
+  max-width: 1300px;
 }
 
 h4 {
@@ -31,7 +31,6 @@ h4 {
   bottom: 0;
   width: 100%;
   padding: 15px;
-  padding-bottom: 0;
   margin-top: 50px;
   box-sizing: border-box;
   background-color: #ececec;
