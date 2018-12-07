@@ -1,0 +1,30 @@
+* {
+  font-family: Georgia;
+}
+
+img {
+  width: 45px;
+  height: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#orbituary {
+  margin: 100px;
+  font-size: 14pt;
+  margin-bottom: 0;
+}
+
+h4 {
+  margin-top: -15px;
+}
+
+.footer {
+  display: inline-block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 15px;
+  padding-bottom: 0;
+  margin-top: 50px;
+}
